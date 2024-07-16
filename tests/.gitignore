@@ -1,0 +1,8 @@
+*.php
+*.diff
+*.exp
+*.out
+*.sh
+*.log
+*.mem
+sapnwrfc.config.inc
